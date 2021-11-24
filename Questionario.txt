@@ -1,0 +1,28 @@
+1 En tus palabras, ¿Qué es internet? El Internet es un medio o heramienta donde puedes buscar respuestas a lo que tu quieras 
+
+2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet. 
+Pares trenzados
+Cable coaxial
+fibra óptica
+Radio enlaces de VHF y UHF
+Microondas
+
+3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS. El internet es un conjunto descentralizado de redes de comunicaciones 
+interconectadas, que utilizan la familia de protocolos TCP/IP, lo cual garantiza que las redes físicas heterogéneas que la componen constituyen 
+una red lógica única de alcance mundial.
+
+4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular. Una cancion de spotify puede llegar 
+hasta mi telefono gracias a que el estudio0 donde se produjo esta conectado a un servidor el cual esta conectado a una red por la cual es el medio 
+donde se conecta a spotify.
+
+5 Describe los protocolos que existen en internet, en específico HTTP y HTML. Existen diferentes protocolos de internet, estos tipos de 
+protocolos establecen unas condiciones distintas, para adaptarse al tipo de información que deben asegurar.
+
+6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas. Lo0 que aprendi sobre encriptacion y llaves publicas fue que 
+cada tipo de palabra tiene diferentes funciones como http, title, y muchas otras.
+
+7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet. Lo que aprendi fue que es muy importante no poner
+informacion importante sobre mi, mi familia, amigos y otros.
+
+8 ¿Cómo funciona la búsqueda de google? primero hace un rastrea con sistemas automatizados, despues hace una idexacion donde rastrea 
+paginas web en donde ya las hallas visitado 
